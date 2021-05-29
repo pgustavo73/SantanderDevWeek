@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="olar_user">Olá Gustavo</string>
+    <string name="ag_2330">Ag 2330</string>
+    <string name="saldo_disponivel">Saldo Disponivel</string>
+    <string name="txt_saldo_limite">saldo limite</string>
+    <string name="txt_ver_extrato">ver extrato</string>
+    <string name="txt_pagar">Pagar</string>
+    <string name="txt_transferir">Transferir</string>
+    <string name="txt_cartao_final">Cartao Final</string>
+    <string name="nav_1">Nav 1</string>
+</resources>
