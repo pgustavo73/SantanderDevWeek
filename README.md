@@ -1,9 +1,10 @@
-# SantaderDevWeek com Kotlin 
+# SantaderDevWeek in Kotlin
 
-Esta semana acompanhei o #SantanderDevWeek desenvolvendo um  clone da tela principal do app do Santander com finalidade de aprimorar conhecimentos adquiridos em Kotlin. Apos finalizar o   BootCAmp da  Everis na DIO.
+This week I followed #SantanderDevWeek developing a clone of the main screen of the Santander app to improve the knowledge acquired in Kotlin. After finishing everis Bootcamp on DIO.
 
- E já no aquecimento para o Santander Bootcamp | Mobile Developer  
+   And already warming up for Santander Bootcamp | mobile developer
 
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
+Please feel free to look open to tips and suggestions.
 
+# Screens
 <img src="./image/telas.jpg" />
